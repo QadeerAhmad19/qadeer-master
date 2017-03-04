@@ -1,0 +1,8 @@
+/* Add here all your CSS customizations */
+.container .home-dashboardleft {
+    position: absolute;
+    background-color: rgb(52, 57, 64);
+    width: 252px;
+    box-sizing: border-box;
+    padding: 23px 0px 0px 9px;
+}
